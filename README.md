@@ -57,5 +57,3 @@ erDiagram
         double temperature "Temperatura Amb."
         double rel_humidity "Humedad Relativa"
     }
-
-Nota de Limpieza: Se identificó que el dataset original utiliza -200 para representar valores nulos y comas (,) como separador decimal. Estos fueron tratados durante la fase de transformación.
